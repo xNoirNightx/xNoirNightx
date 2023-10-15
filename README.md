@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Coral</h1>
-<h3 align="center">A full stack developer student from Canada with a passions for Front end</h3>
+<h1 align="center">Hi 👋, I'm Coral Night </h1>
+<h3 align="center">A full stack developer student with a passions for Front End and Game Development </h3>
+
+
+As a dedicated student at UNB pursuing a Full Stack Developer degree, My passion lies at the intersection of Front-End Development and Game Development.
+
+My journey in technology and development started as a self-taught graphic designer, and I have also gained valuable experience as a construction assistant. Now, I'm embarking on an exciting journey to create my own solo game while working towards a career in Front-End Development. My ultimate goal is to expand my expertise in the world of game development through further studies.
+
+Outside of my professional pursuits, I'm an avid gamer, a lover of all things related to game development, and an enthusiastic anime fan. I also find solace in a good book and enjoy the company of my beloved feline companions.
+
+In addition to my professional endeavors, I'm a proud mother of 5 wonderful children, which keeps me motivated to succeed in my career and make a positive impact on their lives.
+
+I'm always open to connecting with fellow professionals, fellow enthusiasts in game development, and anyone who shares my interests. If you'd like to connect or discuss collaborations, please feel free to reach out. Let's embark on this exciting journey together!
+
+Thank you for visiting my profile, and I look forward to connecting with you.
+
+
+
+
 
 - 🔭 I’m currently working on **solo game development**
 
